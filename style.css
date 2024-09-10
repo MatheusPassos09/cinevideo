@@ -12,6 +12,11 @@ body {
     height: 100vh; /* Preenche a altura total da viewport */
     margin: 0; /* Remove a margem padrão */
     padding: 0; /* Remove o padding padrão */
+    background-image: url("fundo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+        
 }
 
 /* Estiliza os títulos h1 */
@@ -21,6 +26,13 @@ h1 {
     text-align: center; /* Alinha o texto ao centro */
     letter-spacing: 0.4rem; /* Espaçamento entre letras */
 }
+
+h3 {
+    text-align: center;
+    letter-spacing: 0.4rem;
+    color: #222831;
+}
+
 
 /* Estiliza as seções da página */
 section {
