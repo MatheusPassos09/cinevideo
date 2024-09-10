@@ -39,17 +39,3 @@ O CineVideo é uma aplicação web simples e intuitiva que permite aos usuários
 Se você quiser contribuir para este projeto, fique à vontade para abrir um pull request! 
 
 **Divirta-se explorando e personalizando o CineVideo!**
-
-**Observações:**
-
-* Este README é apenas um exemplo e pode ser adaptado para atender às suas necessidades específicas.
-* Para um projeto mais complexo, pode ser interessante adicionar mais detalhes sobre a arquitetura da aplicação, como a estrutura de pastas, as bibliotecas utilizadas, etc.
-* É importante manter o README atualizado à medida que o projeto evolui.
-
-**Dicas:**
-
-* Utilize markdown para formatar o seu README e deixá-lo mais organizado e visualmente atraente.
-* Adicione imagens ou GIFs para ilustrar o funcionamento da aplicação.
-* Crie uma seção de FAQ para responder às dúvidas mais comuns.
-
-Com este README, você terá uma ótima base para compartilhar seu projeto com outras pessoas e facilitar a colaboração.
